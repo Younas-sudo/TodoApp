@@ -1,12 +1,23 @@
-#TodoApp
-A simple and intuitive TodoApp built with JavaScript to help you manage your tasks efficiently.
+TodoApp
+A simple and efficient TodoApp built with JavaScript to help you manage your daily tasks.
 
+Features
+Add new tasks.
 
-##Features
-Add Tasks: Quickly add new tasks to your list.
+Mark tasks as complete.
 
-Mark as Complete: Check off tasks you've completed.
+Delete tasks.
 
-Delete Tasks: Remove tasks you no longer need.
+Tasks are saved in local storage for persistence.
 
-Local Storage: Your tasks are saved locally, so they persist even after refreshing the page.
+How to Use
+Clone the repository:
+
+bash
+Copy
+git clone https://github.com/your-username/todoapp.git
+Open index.html in your browser.
+
+Keep it simple, keep it productive! ✅
+
+Let me know if you need further tweaks!
